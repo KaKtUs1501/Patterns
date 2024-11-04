@@ -1,0 +1,7 @@
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab17\Lab17\bin\Debug\Lab17.exe
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab17\Lab17\bin\Debug\Lab17.pdb
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab17\Lab17\obj\Debug\Lab17.csproj.AssemblyReference.cache
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab17\Lab17\obj\Debug\Lab17.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab17\Lab17\obj\Debug\Lab17.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab17\Lab17\obj\Debug\Lab17.exe
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab17\Lab17\obj\Debug\Lab17.pdb

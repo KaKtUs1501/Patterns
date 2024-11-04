@@ -1,0 +1,7 @@
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab9\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab9\Lab9\obj\Debug\Lab9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab9\Lab9\obj\Debug\Lab9.pdb

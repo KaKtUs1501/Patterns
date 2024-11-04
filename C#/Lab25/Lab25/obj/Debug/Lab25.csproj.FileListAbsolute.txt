@@ -1,0 +1,7 @@
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab25\Lab25\bin\Debug\Lab25.exe
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab25\Lab25\bin\Debug\Lab25.pdb
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab25\Lab25\obj\Debug\Lab25.csproj.AssemblyReference.cache
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab25\Lab25\obj\Debug\Lab25.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab25\Lab25\obj\Debug\Lab25.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab25\Lab25\obj\Debug\Lab25.exe
+C:\Users\Ksenia\Desktop\University\Patterns\C#\Lab25\Lab25\obj\Debug\Lab25.pdb
